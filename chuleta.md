@@ -8,3 +8,4 @@
 * `git status`: Muestra el estado de tu repositorio local.
 * `git branch <RAMA>`: Crea una nueva rama con el nombre `<RAMA>`.
 * `git checkout <RAMA>`: Cambia a la rama con nombre `<RAMA>`.
+* `git merge <RAMA>`: Mezcla la rama actual con la rama `<RAMA>`.
